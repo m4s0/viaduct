@@ -1,0 +1,13 @@
+# Dirs
+.venv/*
+.mypy_cache/*
+*/__pycache__/**
+.pytest_cache/*
+.vscode/*
+*.egg-info
+
+# Files
+*.pyc
+.containerid
+junit.xml
+.idea
